@@ -1,0 +1,39 @@
+<!DOCTYRE html>
+<html lang="zh-CN">
+     <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width,initial-scale=1"/>
+          <title>我的网页</title>
+     </head>
+     <body style="margin: 0;">
+          <div style="
+                background-color:  #f1f1f1;
+                text-align: center;
+                padding: 40px;
+                "
+                 
+                <img alt="马楷峰" src="C:\Users\dangdand\Desktop\OIP-C.jfif" width="80px" height="80px"
+          </div>
+          <div style="  
+                max-width: 760px;
+                margin: 30px auto;
+                padding: 15px;
+                line-height；1.7；
+          "
+                <p>
+                       我的名字叫马楷峰，是一个大帅哥，也是腾讯、微软、米哈游、心动公司总经理兼董事长。
+                </p>
+                
+          </div>
+          <div style="
+                background-color:  #f1f1f1;
+                text-align: center;
+                padding: 40px;
+                font-size: 12px;
+                "
+                 
+                <p>版权所有：https://www.police room.com</p>
+                <a href="马楷峰" src="https://play.imc.re:441/eaglerx/">我的网站</p>
+           </div>
+     </body>
+</html>
